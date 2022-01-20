@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  block-size: 60px;
+}
+
+.header-description {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.hero-social {
+  padding-block-end: 24px;
+}
